@@ -1,9 +1,9 @@
 # MyMean
-A Construction to start developing with ExpressJS and AngularJS on the run with --ejs
+Boilerplate code to jump into developing with ExpressJS and AngularJS on the run with --ejs for developing views
 
-To start first run
-npm install 
+First run:
+  ### npm install
 
-and to start the server
-npm start
-# DistWebApp
+
+To start the server:
+### npm start
